@@ -24,7 +24,7 @@ An email notification will be sent to you. Once you check your registered email 
 It is the home page of the CMSEE UI.
 On the right-hand side of the header, you will find a Menu with “Change Password” and “Logout” links.
 
-![Dashboard Screen](https://github.com/shailendra4chat/cmsee/blob/main/dashboard.PNG)
+![Dashboard Screen](https://github.com/shailendra4chat/cmsee/blob/main/dashboard.png)
 
 ### Change Password
 
