@@ -8,3 +8,11 @@ CMSEE has various modules and features as follows:
 
 ## Login
 
+The Login Page allows the users to log in and every user must log in to the CMSEE portal to use the features in the application.
+It has two fields, the Email, and the Password. The inputs will be compared with our user database and the password verified. Once the verification is complete, the user will proceed to the Dashboard page.
+
+### Reset Password
+
+If you have forgotten your password, you may reset it by clicking the "Reset Password" link. It will redirect you to the “Password Setup” page. You are then required to enter your registered email address and click "Send" to proceed to reset your password.
+
+An email notification will be sent to you. Once you check your registered email and by clicking on the reset password "link". It will direct you to enter your desirable new password. If all steps are followed and completed, a successful password reset confirmation will be displayed. You will then be able to enter the system again. 
