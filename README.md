@@ -11,7 +11,7 @@ CMSEE has various modules and features as follows:
 The Login Page allows the users to log in and every user must log in to the CMSEE portal to use the features in the application.
 It has two fields, the Email, and the Password. The inputs will be compared with our user database and the password verified. Once the verification is complete, the user will proceed to the Dashboard page.
 
-![Login Screen](https://github.com/shailendra4chat/cmsee/blob/main/login.PNG)
+![Login Screen](https://github.com/shailendra4chat/cmsee/blob/main/login.png)
 
 ### Reset Password
 
