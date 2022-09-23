@@ -29,6 +29,8 @@ On the right-hand side of the header, you will find a Menu with “Change Passwo
 ### Change Password
 
 By clicking the “Change Password” link in the header right-hand side menu, the user will be redirected to the change password screen.
+
 You are then required to enter a new password, confirm a new password, and click "Change Password" to proceed to change your password.
 A notification will be displayed on the screen, and the user will be logged out to use the new password while logging in to the system.
 
+![Change Password Screen](https://github.com/shailendra4chat/cmsee/blob/main/change-password.png)
