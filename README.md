@@ -15,4 +15,6 @@ It has two fields, the Email, and the Password. The inputs will be compared with
 
 If you have forgotten your password, you may reset it by clicking the "Reset Password" link. It will redirect you to the “Password Setup” page. You are then required to enter your registered email address and click "Send" to proceed to reset your password.
 
+![Login Screen](https://github.com/shailendra4chat/cmsee/blob/main/login.PNG)
+
 An email notification will be sent to you. Once you check your registered email and by clicking on the reset password "link". It will direct you to enter your desirable new password. If all steps are followed and completed, a successful password reset confirmation will be displayed. You will then be able to enter the system again. 
